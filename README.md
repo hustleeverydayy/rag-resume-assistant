@@ -145,5 +145,5 @@ npm run dev
 
 ## 作者
 
-**蘇邑洋 Su Yi Yang**
-國立彰化師範大學 資訊工程學系 碩士
+**Su Yi Yang**
+
